@@ -1,5 +1,5 @@
 // #destructuring Object
-
+//edwe
 const person = {
     name: 'John Doe',
     age: 30,                        
